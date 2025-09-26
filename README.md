@@ -90,7 +90,7 @@ pong-rl/
 ├── pong_record.py       # Gameplay recording utility
 ├── models/              # Saved model checkpoints
 ├── logs/                # Training logs and metrics
-├── recordings/          # Demo videos
+├── pong_demo.mp4        # Demo video
 └── README.md
 ```
 
