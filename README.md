@@ -6,6 +6,8 @@ A complete implementation of a Pong-playing AI agent using Proximal Policy Optim
 
 This project demonstrates end-to-end reinforcement learning development, from environment creation to agent training and evaluation. The AI agent learns to play Pong using only sparse rewards (+1 for scoring, -1 for opponent scoring) and develops sophisticated gameplay strategies through trial and error.
 
+![Pong AI Demo](pong_demo.mp4)
+
 ### Key Features
 - Custom Gym environment with proper observation/action spaces
 - PPO-based training with Stable-Baselines3
