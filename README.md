@@ -12,6 +12,7 @@ The goal of the game is simple just defend the pong ball and you get a score if 
 First to 5 points wins the game.
 
 ## Demo 
+The left paddle is the Agent and the right paddle is a rule-based AI.
 ![Pong AI Demo](pong_demo.gif)
 
 ### Key Features
